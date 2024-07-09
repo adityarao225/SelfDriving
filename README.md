@@ -5,6 +5,7 @@
 This project involves creating an AI for a self-driving car using a Deep Q-Network (DQN) and the Kivy framework for graphical user interface. The project includes the implementation of the neural network, experience replay, and DQN algorithm, as well as the simulation environment for testing and training the self-driving car.
 
 ## Project Structure
+'''
 .
 ├── .idea/                # Contains IDE-specific files.
 ├── __pycache__/          # Contains Python bytecode files.
@@ -19,6 +20,7 @@ This project involves creating an AI for a self-driving car using a Deep Q-Netwo
 ├── requirements.txt      # Lists the required Python packages to run the project.
 ├── run.sh                # Shell script to start the project.
 └── specifications/       # Project specifications and design documents.
+'''
 
 ## Dependencies
 
